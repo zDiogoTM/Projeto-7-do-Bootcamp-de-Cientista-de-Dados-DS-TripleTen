@@ -72,16 +72,14 @@ Empresas de táxi precisam entender:
 ## 📈 Principais Resultados
 
 ### **Análise de Empresas**
-[Descreva aqui os principais achados sobre distribuição de corridas entre empresas]
 
 ### **Top 10 Bairros**
-[Liste os 10 bairros mais populares e insights sobre eles]
 
 ### **Teste de Hipótese**
 **Resultado do teste:**
-- p-value: [seu resultado]
-- Conclusão: [rejeita ou não rejeita H₀]
-- Interpretação: [explicação do que isso significa na prática]
+- p-value
+- Conclusão
+- Interpretação
 
 ### **Insights de Negócio**
 ✓ [Insight 1 sobre padrões de demanda]
